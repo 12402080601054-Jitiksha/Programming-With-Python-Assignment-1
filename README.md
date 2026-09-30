@@ -13,7 +13,7 @@ Concepts:
 - Hashing
 - Data aggregation
 
-### Q2 - Optimized Password Audit with Pattern Constraints
+### [Q2 - Optimized Password Audit with Pattern Constraints](Assignment-1/Q-2/12402080601054_Assignment1_Q2.py)
 Concepts:
 - Strings
 - Regular expressions
@@ -21,10 +21,7 @@ Concepts:
 - Validation
 - Edge-case analysis
 
-File:
-12402080601054_Assignment1_Q2.py
-
-### Q3 - Recursive Expression Engine with Memoization
+### [Q3 - Recursive Expression Engine with Memoization](Assignment-1/Q-3/12402080601054_Assignment1_Q3.py)
 Concepts:
 - Recursion
 - Stacks
@@ -33,10 +30,7 @@ Concepts:
 - Memoization
 - Cycle detection
 
-File:
-12402080601054_Assignment1_Q3.py
-
-### Q4 - Exception-Safe CSV Transaction Splitter
+### [Q4 - Exception-Safe CSV Transaction Splitter](Assignment-1/Q-4/12402080601054_Assignment1_Q4.py)
 Concepts:
 - File handling
 - CSV
@@ -45,10 +39,7 @@ Concepts:
 - Sorting
 - Data cleaning
 
-File:
-12402080601054_Assignment1_Q4.py
-
-### Q5 - Object-Oriented Bank Settlement System
+### [Q5 - Object-Oriented Bank Settlement System](Assignment-1/Q-5/12402080601054_Assignment1_Q5.py)
 Concepts:
 - OOP
 - Encapsulation
@@ -56,10 +47,7 @@ Concepts:
 - Rollback logic
 - Dictionaries
 
-File:
-12402080601054_Assignment1_Q5.py
-
-### Q6 - Python Module Dependency Resolver
+### [Q6 - Python Module Dependency Resolver](Assignment-1/Q-6/12402080601054_Assignment1_Q6.py)
 Concepts:
 - Graphs
 - Topological sorting
@@ -68,10 +56,7 @@ Concepts:
 - Dictionaries
 - Cycle detection
 
-File:
-12402080601054_Assignment1_Q6.py
-
-### Q7 - Interactive Formula Validator with Custom Exceptions
+### [Q7 - Interactive Formula Validator with Custom Exceptions](Assignment-1/Q-7/12402080601054_Assignment1_Q7.py)
 Concepts:
 - Exception handling
 - Assertions
@@ -79,32 +64,23 @@ Concepts:
 - Parsing
 - Interactive programs
 
-File:
-12402080601054_Assignment1_Q7.py
-
-### Q8 - Compressed Log Index using Pickle and Zip
+### [Q8 - Compressed Log Index using Pickle and Zip](Assignment-1/Q-8/12402080601054_Assignment1_Q8.py)
 Concepts:
 - File handling
 - Pickling
 - Zip/unzip
 - Dictionaries
 - Text processing
-- Indexing
-
-File:
-12402080601054_Assignment1_Q8.py
-
-### Q9 - Threaded Job Scheduler Simulation
+- Index
+  
+### [Q9 - Threaded Job Scheduler Simulation](Assignment-1/Q-9/12402080601054_Assignment1_Q9.py)
 Concepts:
 - Multithreading concepts
 - Priority queues
 - Simulation
 - Synchronization design
 
-File:
-12402080601054_Assignment1_Q9.py
-
-### Q10 - Tkinter Assignment Tracker with File Persistence
+### [Q10 - Tkinter Assignment Tracker with File Persistence](Assignment-1/Q-10/12402080601054_Assignment1_Q10.py)
 Concepts:
 - Tkinter
 - GUI design
@@ -112,9 +88,6 @@ Concepts:
 - File persistence
 - Validation
 - CSV/JSON
-
-File:
-12402080601054_Assignment1_Q10.py
 
 ## Requirements
 
