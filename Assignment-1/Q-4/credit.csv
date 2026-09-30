@@ -1,0 +1,2 @@
+transaction_id,account_id,type,amount,timestamp
+T1,A1,CREDIT,0.01,2026-01-01T00:00:00
