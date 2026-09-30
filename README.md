@@ -4,7 +4,7 @@ Enrollment Number: 12402080601054
 
 ## Assignment Questions
 
-### [Q1 - Campus Merit Analyzer using Compound Data Structures](Assignment-1/Q1/12402080601054_Assignment1_Q1.py)
+### [Q1 - Campus Merit Analyzer using Compound Data Structures](Assignment-1/Q-1/12402080601054_Assignment1_Q1.py)
 Concepts:
 - Lists
 - Tuples
