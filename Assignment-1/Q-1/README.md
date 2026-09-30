@@ -30,9 +30,7 @@ Students are ranked using:
 
 Open Command Prompt in the project folder and run:
 
-python 2201_Assignment1_Q1.py
-
-Replace 2201 with the actual enrollment number.
+python 12402080601054_Assignment1_Q1.py
 
 ### Input Format
 
