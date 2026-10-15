@@ -103,8 +103,3 @@ Example:
 python 12402080601054_Assignment1_Q1.py
 
 Replace Q1 with the required question number.
-
-## GitHub
-
-All programs are maintained as separate Python files for easy testing
-and submission.
